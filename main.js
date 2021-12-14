@@ -1,2 +1,2 @@
-console.log('Thanks For Using eppnet!!!. enjoy')
+console.log('🥓🥓THANKS For Using EppNet. Hopefully You like it.🥓🥓')
 console.error(error)
